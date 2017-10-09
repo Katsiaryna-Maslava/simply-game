@@ -1,0 +1,10 @@
+{
+  "files": ["index.ts"],
+  "compileOnSave": true,
+  "compilerOptions": {
+    "watch": true,
+    "target": "ES6",
+    "stripInternal": true,
+    "strict": true
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "name": "game",
-  "main": "index.js",
-  "scripts": {
-    "start": "tsc index.ts -w --module es2015 --lib esnext"
-  }
-}
